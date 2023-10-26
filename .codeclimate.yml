@@ -1,5 +1,5 @@
 # Save as .codeclimate.yml (note leading .) in project root directory
-version: "3"
+version: "2"
 languages:
   Ruby: false
   JavaScript: true
